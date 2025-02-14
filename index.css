@@ -1,0 +1,66 @@
+body{
+    background-image: url("website.jpg");
+    background-size:cover;
+    background-repeat: no-repeat
+    
+}
+
+h2{
+background-color: #d4c0a7;
+opacity: .2;
+border-radius: 10px;
+width:fit-content;
+text-align: center;
+padding: 150px;
+margin:auto;
+margin-top: 236px
+}
+.checkbox {
+    text-align:center; 
+    margin-top: 206px; 
+    margin-right: 184px;
+    font-size: 15px 
+}
+
+
+
+div p{
+    text-align: center;
+    background-color: #a55362;
+    border-radius: 10px;
+    width:15%;
+    font-size: 30px;
+    margin-top: -87px
+    
+}
+.user {
+    text-align: center; 
+    margin-top: -163px
+}
+
+.user input {
+    width: 250px; 
+    height: 35px; 
+    padding: 5px;
+    font-size: 16px;
+    border-radius: 5px; 
+    border: 1px solid #ccc
+}
+
+.passs {
+    text-align: center; 
+    margin-top: 10px;
+}
+
+.passs input {
+    width: 250px; 
+    height: 35px; 
+    padding: 5px;
+    font-size: 16px;
+    border-radius: 5px; 
+    margin-left: -2px;
+    border: 1px solid #ccc
+}
+.forgotpass{
+    color: #a55362
+}
